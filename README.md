@@ -1,6 +1,6 @@
 #Texto MarkDown e Sintaxes
 
-Texto teste de Merge
+Texto exemplo de Merge
 
 ## TITUTLOS:
 
