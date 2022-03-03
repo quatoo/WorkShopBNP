@@ -1,5 +1,7 @@
 #Texto MarkDown e Sintaxes
 
+Texto teste de Merge
+
 ## TITUTLOS:
 
 # Título <h1>
